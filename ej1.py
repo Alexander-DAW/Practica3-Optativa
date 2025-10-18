@@ -126,12 +126,12 @@ class Portatil(Ordenador):
             print("Ordenador al 100 de bateria")
             self.porcentaje_bateria_actual=100
     
-pc1 = Ordenador("Intel i7", 16, 512, "Windows 10")
+'''pc1 = Ordenador("Intel i7", 16, 512, "Windows 10")
 pc2 = Ordenador("Ryzen 5", 8, 1024, "Windows 11")
 pc3_sobremesa = Sobremasa((40, 20, 50), 1024, "NVIDIA RTX 3060", "Intel i5", 16, "Ubuntu")
 pc4_sobremesa = Sobremasa((50, 25, 60), 2048, "AMD RX 6600", "Ryzen 7", 32, "Windows 10")
 pc5_portatil = Portatil(80, "HP Envy", "Intel i7", 16, 512, "Windows 10")
-pc6_portatil = Portatil(45, "Asus ROG", "Ryzen 5", 32, 1024, "Windows 11")
+pc6_portatil = Portatil(45, "Asus ROG", "Ryzen 5", 32, 1024, "Windows 11")'''
 
 
 
